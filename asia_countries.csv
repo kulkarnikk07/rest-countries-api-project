@@ -1,0 +1,51 @@
+Name,Official Name,Capital,Region,Subregion,Population,Area (km²),Languages,Currencies,Continent,UN Member,Independent,Country Code,Flag Emoji
+Uzbekistan,Republic of Uzbekistan,Tashkent,Asia,Central Asia,37859698,447400.0,"Russian, Uzbek",Uzbekistani soʻm,Asia,True,True,UZ,🇺🇿
+Bhutan,Kingdom of Bhutan,Thimphu,Asia,Southern Asia,784043,38394.0,Dzongkha,"Bhutanese ngultrum, Indian rupee",Asia,True,True,BT,🇧🇹
+Oman,Sultanate of Oman,Muscat,Asia,Western Asia,5343630,309500.0,Arabic,Omani rial,Asia,True,True,OM,🇴🇲
+Bahrain,Kingdom of Bahrain,Manama,Asia,Western Asia,1594654,765.0,Arabic,Bahraini dinar,Asia,True,True,BH,🇧🇭
+Kazakhstan,Republic of Kazakhstan,Astana,Asia,Central Asia,20426568,2724900.0,"Kazakh, Russian",Kazakhstani tenge,Asia,True,True,KZ,🇰🇿
+North Korea,Democratic People's Republic of Korea,Pyongyang,Asia,Eastern Asia,25950000,120538.0,Korean,North Korean won,Asia,True,True,KP,🇰🇵
+Azerbaijan,Republic of Azerbaijan,Baku,Asia,Western Asia,10241722,86600.0,Azerbaijani,Azerbaijani manat,Europe,True,True,AZ,🇦🇿
+Philippines,Republic of the Philippines,Manila,Asia,South-Eastern Asia,114123600,342353.0,"English, Filipino",Philippine peso,Asia,True,True,PH,🇵🇭
+Jordan,Hashemite Kingdom of Jordan,Amman,Asia,Western Asia,11734000,89342.0,Arabic,Jordanian dinar,Asia,True,True,JO,🇯🇴
+Palestine,State of Palestine,Ramallah,Asia,Western Asia,5483450,6220.0,Arabic,"Egyptian pound, Israeli new shekel, Jordanian dinar",Asia,False,False,PS,🇵🇸
+India,Republic of India,New Delhi,Asia,Southern Asia,1417492000,3287263.0,"English, Hindi, Tamil",Indian rupee,Asia,True,True,IN,🇮🇳
+Armenia,Republic of Armenia,Yerevan,Asia,Western Asia,3076200,29743.0,Armenian,Armenian dram,Asia,True,True,AM,🇦🇲
+Iraq,Republic of Iraq,Baghdad,Asia,Western Asia,46118793,438317.0,"Arabic, Aramaic, Sorani",Iraqi dinar,Asia,True,True,IQ,🇮🇶
+Taiwan,Republic of China (Taiwan),Taipei,Asia,Eastern Asia,23317031,36197.0,Chinese,New Taiwan dollar,Asia,False,False,TW,🇹🇼
+United Arab Emirates,United Arab Emirates,Abu Dhabi,Asia,Western Asia,11294243,83600.0,Arabic,United Arab Emirates dirham,Asia,True,True,AE,🇦🇪
+Turkey,Republic of Turkey,Ankara,Asia,Western Asia,85664944,783562.0,Turkish,Turkish lira,Europe,True,True,TR,🇹🇷
+Georgia,Georgia,Tbilisi,Asia,Western Asia,4000921,69700.0,Georgian,lari,Asia,True,True,GE,🇬🇪
+Vietnam,Socialist Republic of Vietnam,Hanoi,Asia,South-Eastern Asia,101343800,331212.0,Vietnamese,Vietnamese đồng,Asia,True,True,VN,🇻🇳
+Mongolia,Mongolia,Ulan Bator,Asia,Eastern Asia,3544835,1564110.0,Mongolian,Mongolian tögrög,Asia,True,True,MN,🇲🇳
+China,People's Republic of China,Beijing,Asia,Eastern Asia,1408280000,9706961.0,Chinese,Chinese yuan,Asia,True,True,CN,🇨🇳
+Cambodia,Kingdom of Cambodia,Phnom Penh,Asia,South-Eastern Asia,17577760,181035.0,Khmer,"Cambodian riel, United States dollar",Asia,True,True,KH,🇰🇭
+Singapore,Republic of Singapore,Singapore,Asia,South-Eastern Asia,6110200,710.0,"English, Chinese, Malay, Tamil",Singapore dollar,Asia,True,True,SG,🇸🇬
+Israel,State of Israel,Jerusalem,Asia,Western Asia,10134800,21937.0,"Arabic, Hebrew",Israeli new shekel,Asia,True,True,IL,🇮🇱
+Laos,Lao People's Democratic Republic,Vientiane,Asia,South-Eastern Asia,7647000,236800.0,Lao,Lao kip,Asia,True,True,LA,🇱🇦
+Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,21763170,65610.0,"Sinhala, Tamil",Sri Lankan rupee,Asia,True,True,LK,🇱🇰
+Thailand,Kingdom of Thailand,Bangkok,Asia,South-Eastern Asia,65859640,513120.0,Thai,Thai baht,Asia,True,True,TH,🇹🇭
+Afghanistan,Islamic Republic of Afghanistan,Kabul,Asia,Southern Asia,43844000,652230.0,"Dari, Pashto, Turkmen",Afghan afghani,Asia,True,True,AF,🇦🇫
+Qatar,State of Qatar,Doha,Asia,Western Asia,3173024,11586.0,Arabic,Qatari riyal,Asia,True,True,QA,🇶🇦
+Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,City of Victoria,Asia,Eastern Asia,7527500,1104.0,"English, Chinese",Hong Kong dollar,Asia,False,False,HK,🇭🇰
+Malaysia,Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,34231700,330803.0,"English, Malay",Malaysian ringgit,Asia,True,True,MY,🇲🇾
+Saudi Arabia,Kingdom of Saudi Arabia,Riyadh,Asia,Western Asia,35300280,2149690.0,Arabic,Saudi riyal,Asia,True,True,SA,🇸🇦
+Japan,Japan,Tokyo,Asia,Eastern Asia,123210000,377930.0,Japanese,Japanese yen,Asia,True,True,JP,🇯🇵
+Yemen,Republic of Yemen,Sana'a,Asia,Western Asia,32684503,527968.0,Arabic,Yemeni rial,Asia,True,True,YE,🇾🇪
+Macau,Macao Special Administrative Region of the People's Republic of China,N/A,Asia,Eastern Asia,685900,30.0,"Portuguese, Chinese",Macanese pataca,Asia,False,False,MO,🇲🇴
+Timor-Leste,Democratic Republic of Timor-Leste,Dili,Asia,South-Eastern Asia,1391221,14874.0,"Portuguese, Tetum",United States dollar,Oceania,True,True,TL,🇹🇱
+Bangladesh,People's Republic of Bangladesh,Dhaka,Asia,Southern Asia,169828911,147570.0,Bengali,Bangladeshi taka,Asia,True,True,BD,🇧🇩
+Iran,Islamic Republic of Iran,Tehran,Asia,Southern Asia,85961000,1648195.0,Persian (Farsi),Iranian rial,Asia,True,True,IR,🇮🇷
+Myanmar,Republic of the Union of Myanmar,Naypyidaw,Asia,South-Eastern Asia,51316756,676578.0,Burmese,Burmese kyat,Asia,True,True,MM,🇲🇲
+South Korea,Republic of Korea,Seoul,Asia,Eastern Asia,51159889,100210.0,Korean,South Korean won,Asia,True,True,KR,🇰🇷
+Kuwait,State of Kuwait,Kuwait City,Asia,Western Asia,4881254,17818.0,Arabic,Kuwaiti dinar,Asia,True,True,KW,🇰🇼
+Pakistan,Islamic Republic of Pakistan,Islamabad,Asia,Southern Asia,241499431,796095.0,"English, Urdu",Pakistani rupee,Asia,True,True,PK,🇵🇰
+Nepal,Federal Democratic Republic of Nepal,Kathmandu,Asia,Southern Asia,29911840,147181.0,Nepali,Nepalese rupee,Asia,True,True,NP,🇳🇵
+Tajikistan,Republic of Tajikistan,Dushanbe,Asia,Central Asia,10499000,143100.0,"Russian, Tajik",Tajikistani somoni,Asia,True,True,TJ,🇹🇯
+Kyrgyzstan,Kyrgyz Republic,Bishkek,Asia,Central Asia,7281800,199951.0,"Kyrgyz, Russian",Kyrgyzstani som,Asia,True,True,KG,🇰🇬
+Maldives,Republic of the Maldives,Malé,Asia,Southern Asia,515132,300.0,Maldivian,Maldivian rufiyaa,Asia,True,True,MV,🇲🇻
+Syria,Syrian Arab Republic,Damascus,Asia,Western Asia,25620000,185180.0,Arabic,Syrian pound,Asia,True,True,SY,🇸🇾
+Indonesia,Republic of Indonesia,Jakarta,Asia,South-Eastern Asia,284438782,1904569.0,Indonesian,Indonesian rupiah,Asia,True,True,ID,🇮🇩
+Turkmenistan,Turkmenistan,Ashgabat,Asia,Central Asia,7057841,488100.0,"Russian, Turkmen",Turkmenistan manat,Asia,True,True,TM,🇹🇲
+Brunei,"Nation of Brunei, Abode of Peace",Bandar Seri Begawan,Asia,South-Eastern Asia,455500,5765.0,Malay,"Brunei dollar, Singapore dollar",Asia,True,True,BN,🇧🇳
+Lebanon,Lebanese Republic,Beirut,Asia,Western Asia,5490000,10452.0,"Arabic, French",Lebanese pound,Asia,True,True,LB,🇱🇧
